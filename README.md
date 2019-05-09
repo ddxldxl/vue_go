@@ -1,5 +1,7 @@
 # vue-course
 
+## vue开发结构
+
 ## Project setup
 ```
 npm install

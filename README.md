@@ -1,5 +1,7 @@
 # vue-course
 
+## 路由基本用法
+
 ## Project setup
 ```
 npm install
